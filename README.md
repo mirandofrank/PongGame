@@ -1,5 +1,2 @@
-# PongGame
-#CPSC 386-01
-#This is a pong game written in python
-#There are no walls and each player has 3 paddles
-#The user will be playing on the right side while the left side is controlled by AI 
+# PongGame CPSC 386-01
+This is a pong game written in python using pygame. There are no walls in this game but each side has 3 paddles that are controlled. The player is on the right side with 3 paddles while the 3 paddles on the left side are AI controlled. 
